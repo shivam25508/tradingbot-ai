@@ -83,16 +83,14 @@ We welcome contributions! If you want to improve the bot or add features, please
 3. Make your changes.
 4. Submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: cappuccino6684@example.com
-- **Twitter**: [@Cappuccino6684](https://twitter.com/Cappuccino6684)
+- **Email**: shivamraoji1234@gmail.com
+
 
 ## Releases
 
@@ -113,6 +111,4 @@ This repository covers a range of topics including:
 
 The **AI-Powered Crypto Trading Bot** is designed to help traders navigate the complex world of cryptocurrency. By harnessing the power of AI, it aims to provide insights that can lead to better trading decisions. 
 
-For more information and updates, check the [Releases](https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/releases) section regularly. 
-
-Thank you for your interest in our project! Happy trading!
+Thank you for your interest in our project! 
